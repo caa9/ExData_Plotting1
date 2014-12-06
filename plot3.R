@@ -13,6 +13,7 @@ title(ylab = "Energy sub metering")
 legend(
   "topright",
   names(data)[5:7],
+  cex = 0.9,
   lty = "solid",
   col = c("black", "red", "blue")
 )
