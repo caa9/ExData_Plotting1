@@ -1,4 +1,5 @@
 get_data <- function() {
+  ## download and tidy data in preparation for plots
   
   # data settings
   data_file_url <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
