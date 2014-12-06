@@ -1,4 +1,4 @@
-## generate plot1
+## generate plot2
 
 # get data
 source("download_data.R")
